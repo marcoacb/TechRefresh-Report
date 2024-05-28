@@ -4,7 +4,7 @@ Dashboard about technological renew
 [![Project Logo](Images/firstScreen.png)](https://app.powerbi.com/view?r=eyJrIjoiMjYwZWRkMWUtMTdkYi00OThjLTkzZTMtYTA3NjNkZDg3MmVhIiwidCI6ImEzMzI3YzJiLWZiNjgtNDczNy1iYTFmLTRlNGJmZjRiMWRmNSIsImMiOjR9&pageName=ReportSectiond626d745c94c53493a4d))
 
 ## Description
-This project is an interactive dashboard designed for data analysts. It allows you to visualize, explore, and analyze large volumes of data through an intuitive and feature-rich interface.
+This section is under construction.
 
 ## Table of Contents
 1. [Background](#background)
