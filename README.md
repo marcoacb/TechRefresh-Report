@@ -12,7 +12,7 @@ This panel represents the updated information for taking action based on the equ
 3. [Preview](#preview)
 4. [Features](#features)
 5. [Slides Overview](#slides-overview)
-   - [Sheet 1: Executive Summary](#sheet-1-executive-summary)
+   - [Slide 2: Dashboard Principal - ACTA](#slide-2-dashboard-principal-acta)
    - [Sheet 2: Sales Analysis](#sheet-2-sales-analysis)
    - [Sheet 3: Customer Analysis](#sheet-3-customer-analysis)
    - [Sheet 4: Product Analysis](#sheet-4-product-analysis)
