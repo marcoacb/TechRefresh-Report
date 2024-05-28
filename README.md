@@ -13,9 +13,10 @@ This panel represents the updated information for taking action based on the equ
 4. [Features](#features)
 5. [Slides Overview](#slides-overview)
    - [Slide 2: Dashboard Principal - ACTA](#slide-2)
-   - [Sheet 2: Sales Analysis](#sheet-2-sales-analysis)
-   - [Sheet 3: Customer Analysis](#sheet-3-customer-analysis)
-   - [Sheet 4: Product Analysis](#sheet-4-product-analysis)
+   - [Slide 3: Recojo de Equipos](#slide-3)
+   - [Slide 4: Recojo de Equipos](#slide-4)
+   - [Slide 5: Recojo de Equipos](#slide-5)
+   - [Slide 6: Recojo de Equipos](#slide-6)
 6. [Contacts and Support](#contacts-and-support)
 
 ## Background
@@ -41,22 +42,21 @@ The following technologies were used to develop this dashboard:
 
 ## Slides Overview
 ### Slide 2
-####Dashboard Principal - ACTA
-The "Dashboard Principal - ACTA" sheet provides an overview of the most important data, including:
+Dashboard Principal - ACTA: provides an overview of the most important data, including:
 - **Atenciones por día (Quantity atentions per day)**: Displays the daily number of renewals and additions for different technological devices.
 - **Tipo de Equipo Instalado (Installed equipment per type)**: Bar charts summarizing installed equipments.
 
-### Slide 3: Recojo de Equipos (Equipment Pickup)
-Shows the total number of equipment collected and the location where it came from.
+### Slide 3
+Recojo de Equipos (Equipment Pickup): Shows the total number of equipment collected and the location where it came from.
 
-### Slide 4: Inventario de Almacen
-Warehouse Inventory
+### Slide 4
+Inventario de Almacen: Warehouse Inventory
 
-### Slide 5: Vigencia de equipos almacen
-It shows the current status of the different equipment that is still in our warehouse.
+### Slide 5
+Vigencia de equipos almacen: It shows the current status of the different equipment that is still in our warehouse.
 
-### Slide 6: Ubicacion Vigencia de Equipos
-Shows for each location how many IT devices are current and how many have expired contracts. This visualization makes use of "tooltips"
+### Slide 6
+Ubicacion Vigencia de Equipos: Shows for each location how many IT devices are current and how many have expired contracts. This visualization makes use of "tooltips"
 
 
 ## Contacts and Support
