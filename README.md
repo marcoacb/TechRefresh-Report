@@ -1,7 +1,7 @@
 # TechRefresh-Dashboard
 Dashboard about technological renew
 
-[![Project Logo](Images/firstScreen.png)](https://app.powerbi.com/view?r=eyJrIjoiMjYwZWRkMWUtMTdkYi00OThjLTkzZTMtYTA3NjNkZDg3MmVhIiwidCI6ImEzMzI3YzJiLWZiNjgtNDczNy1iYTFmLTRlNGJmZjRiMWRmNSIsImMiOjR9&pageName=ReportSectiond626d745c94c53493a4d))
+[![Project Logo](Images/firstScreen.png)](https://app.powerbi.com/view?r=eyJrIjoiMjYwZWRkMWUtMTdkYi00OThjLTkzZTMtYTA3NjNkZDg3MmVhIiwidCI6ImEzMzI3YzJiLWZiNjgtNDczNy1iYTFmLTRlNGJmZjRiMWRmNSIsImMiOjR9&pageName=ReportSectiond626d745c94c53493a4d)
 
 ## Description
 This section is under construction.
