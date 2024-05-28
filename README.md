@@ -1,9 +1,7 @@
 # TechRefresh-Dashboard
 Dashboard about technological renew
 
-[Go to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjYwZWRkMWUtMTdkYi00OThjLTkzZTMtYTA3NjNkZDg3MmVhIiwidCI6ImEzMzI3YzJiLWZiNjgtNDczNy1iYTFmLTRlNGJmZjRiMWRmNSIsImMiOjR9&pageName=ReportSectiond626d745c94c53493a4d)
-
-![Project Logo](path/to/logo.png)
+[![Project Logo](Images/firstScreen.png)](https://app.powerbi.com/view?r=eyJrIjoiMjYwZWRkMWUtMTdkYi00OThjLTkzZTMtYTA3NjNkZDg3MmVhIiwidCI6ImEzMzI3YzJiLWZiNjgtNDczNy1iYTFmLTRlNGJmZjRiMWRmNSIsImMiOjR9&pageName=ReportSectiond626d745c94c53493a4d))
 
 ## Description
 This project is an interactive dashboard designed for data analysts. It allows you to visualize, explore, and analyze large volumes of data through an intuitive and feature-rich interface.
@@ -22,7 +20,7 @@ This project is an interactive dashboard designed for data analysts. It allows y
 7. [Contacts and Support](#contacts-and-support)
 
 ## Background
-The development of this dashboard was initiated to address a specific client's need for better data visualization and analysis tools. The client required a comprehensive solution to easily track and analyze key performance metrics across different business domains, including sales, customers, and products. The goal was to create a user-friendly, interactive dashboard that would allow the client to make data-driven decisions more efficiently.
+The creation of this dashboard was driven by the client's demand for advanced data analysis and visualization capabilities. This tool enables the client to visually monitor the progress of technological equipment renewals, providing clear insights into the number of devices that have been renewed and those still pending. The objective was to deliver an interactive, user-friendly dashboard that enhances operational efficiency.
 
 ## Technologies Used
 The following technologies were used to develop this dashboard:
