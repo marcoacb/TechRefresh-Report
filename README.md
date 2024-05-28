@@ -12,7 +12,7 @@ This panel represents the updated information for taking action based on the equ
 3. [Preview](#preview)
 4. [Features](#features)
 5. [Slides Overview](#slides-overview)
-   - [Slide 2: Dashboard Principal - ACTA](#slide-2-dashboard-principal-acta)
+   - [Slide 2: Dashboard Principal - ACTA](#slide-2)
    - [Sheet 2: Sales Analysis](#sheet-2-sales-analysis)
    - [Sheet 3: Customer Analysis](#sheet-3-customer-analysis)
    - [Sheet 4: Product Analysis](#sheet-4-product-analysis)
@@ -40,7 +40,8 @@ The following technologies were used to develop this dashboard:
 - Data export: export visualizations and data in CSV formats.
 
 ## Slides Overview
-### Slide 2: Dashboard Principal - ACTA
+### Slide 2
+####Dashboard Principal - ACTA
 The "Dashboard Principal - ACTA" sheet provides an overview of the most important data, including:
 - **Atenciones por día (Quantity atentions per day)**: Displays the daily number of renewals and additions for different technological devices.
 - **Tipo de Equipo Instalado (Installed equipment per type)**: Bar charts summarizing installed equipments.
