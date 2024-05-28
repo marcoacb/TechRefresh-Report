@@ -1,6 +1,8 @@
 # TechRefresh-Dashboard
 Dashboard about technological renew
 
+[Go to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjYwZWRkMWUtMTdkYi00OThjLTkzZTMtYTA3NjNkZDg3MmVhIiwidCI6ImEzMzI3YzJiLWZiNjgtNDczNy1iYTFmLTRlNGJmZjRiMWRmNSIsImMiOjR9&pageName=ReportSectiond626d745c94c53493a4d)
+
 ![Project Logo](path/to/logo.png)
 
 ## Description
@@ -30,7 +32,7 @@ The following technologies were used to develop this dashboard:
 - **[Add other technologies as needed]**
 
 ## Preview
-![Dashboard Preview]()
+![Dashboard Preview](Images/Dashboard_RT_thumbnail.png)
 
 ## Features
 - Interactive visualizations: line charts, bar charts, pie charts, and more.
