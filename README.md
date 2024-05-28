@@ -3,12 +3,11 @@ Dashboard about technological renew
 
 [![Project Logo](Images/firstScreen.png)](https://app.powerbi.com/view?r=eyJrIjoiMjYwZWRkMWUtMTdkYi00OThjLTkzZTMtYTA3NjNkZDg3MmVhIiwidCI6ImEzMzI3YzJiLWZiNjgtNDczNy1iYTFmLTRlNGJmZjRiMWRmNSIsImMiOjR9&pageName=ReportSectiond626d745c94c53493a4d)
 
-## Description
-This section is under construction.
+
 
 ## Table of Contents
 1. [Background](#background)
-2. [Technologies Used](#technologies-used)
+2. [Tools & Technologies](#tools--technologies)
 3. [Preview](#preview)
 4. [Features](#features)
 5. [Sample Data](#sample-data)
@@ -22,12 +21,12 @@ This section is under construction.
 ## Background
 The creation of this dashboard was driven by the client's demand for advanced data analysis and visualization capabilities. This tool enables the client to visually monitor the progress of technological equipment renewals, providing clear insights into the number of devices that have been renewed and those still pending. The objective was to deliver an interactive, user-friendly dashboard that enhances operational efficiency.
 
-## Technologies Used
+## Tools & Technologies
 The following technologies were used to develop this dashboard:
-- **SQL**: For data querying and manipulation.
-- **Power Query**: For data transformation and connection.
-- **Power Automate**: For automating workflows and data integration.
-- **[Add other technologies as needed]**
+- **Sharepoint**: Where the reports (.xls) with the necessary information are stored.
+- **Power Query**: For data transformation.
+- **DAX**: For calculate measures.
+- **Power BI**: To show the dashboard.
 
 ## Preview
 ![Dashboard Preview](Images/Dashboard_RT_thumbnail.png)
